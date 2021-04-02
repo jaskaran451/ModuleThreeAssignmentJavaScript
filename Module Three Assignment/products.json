@@ -1,0 +1,59 @@
+[
+    {
+        "productName": "An air-blaster",
+        "price": 24.99,
+        "description": "They say this loud and terrifying thing is for fun with family and friends, but it seems better suited to enemies and nemeses.",
+        "features": {
+            "color": "Black",
+            "brand": "Squirrel Products",
+            "weight": 1.2
+        },
+        "image":"air-blaster.jpg"
+    },
+    {
+        "productName": "Uranium ore",
+        "price": 39.95,
+        "description": "The ore sample is Naturally Occurring Radioactive Materials (NORM). Uranium Ore samples are useful as check sources for testing Geiger Counters.",
+        "features": {
+            "brand": "Images SI",
+            "material": "Metal"
+        },
+        "image":"uranium.jpg"
+    },
+    {
+        "productName": "A dog wig",
+			"price": 9.95,
+			"description": "Dogs deserve to feel every bit as stylish as their human counterparts. And fortunately, this wig can help them achieve that goal.",
+			"features": {
+				"color": "Multicolor",
+				"brand": "Rubie's",
+				"size": "small/medium"
+			},
+            "image":"wig.jpg"
+    },
+    {
+        "productName": "A Godzilla garden gnome",
+			"price": 24.99,
+			"description": "This eye-catching garden statue is a fun (and twisted!) accent to your garden, backyard, or indoor space.",
+			"features": {
+				"color": "green",
+				"brand": "BigMouth Inc",
+				"weight": 1.35
+			},
+            "image":"Godzilla.jpg"
+
+    },
+    {
+        "productName": "A cat butt tissue holder",
+			"price": 34.94,
+			"description": "Keep your tissues close at hand with the help of your trusty feline friend.",
+			"features": {
+				"color": "black and white",
+				"brand": "What on earth",
+				"weight": 2.69
+			},
+            "image":"tissue_holder.jpg"
+
+    }
+   
+]

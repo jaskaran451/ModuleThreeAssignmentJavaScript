@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+  margin: 20px;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 10px;
+  background-color:rgb(90, 184, 221);
+}
+
+h1 {
+  color: darkslategray;
+  font-weight: normal;
+  font-size: 40px;
+  margin: 50px;
+}
+
+div {
+  font-size: 15px;
+  padding: 8px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  border-style:double;
+  background-color:rgb(238, 143, 142);
+}
+img {
+  
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    
+  }
