@@ -115,7 +115,7 @@ function appendData(data){
     }
 }
 /*
-let requestURL="http://15.222.122.223/~Jaskaran200447873/product.json";
+let requestURL="http://15.222.122.223/~Jaskaran200447873/products.json";
 
 let request=new XMLHttpRequest();
 
